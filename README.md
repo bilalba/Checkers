@@ -1,0 +1,1 @@
+C++ implementation of the game CheckersBoard. This game was implemented as part of a assignment for a course.
